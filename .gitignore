@@ -1,4 +1,4 @@
 .vscode/settings.json
 .vscode/tasks.json
-two_sum/main.exe
-Palindrome_Number/main.exe
+
+*/*.exe
