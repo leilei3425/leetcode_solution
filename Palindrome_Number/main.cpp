@@ -21,7 +21,7 @@ public:
 
 
 int main() {
-  //bool isPalindrome(int x);
+  
     Solution sol;
     int num = 1122332211;
     if (sol.isPalindrome(num))
